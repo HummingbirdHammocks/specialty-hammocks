@@ -1,10 +1,10 @@
-# Bridge Hammock Hammock
+# Bridge Hammock
 
 The Hummingbird Hammocks Bridge Hammock is an upcoming product intended to solve some of the sleeping comfort issues found by side and belly style sleepers.
 
 ## Table of Contents
 
-- [Bridge Hammock Hammock](#bridge-hammock-hammock)
+- [Bridge Hammock](#bridge-hammock)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
   - [Assembly](#assembly)
